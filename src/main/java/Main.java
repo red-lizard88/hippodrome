@@ -15,7 +15,7 @@ public class Main {
         List<Horse> horses = List.of(
                 new Horse("Bucephalus", 2.4),
                 new Horse("Ace of Spades", 2.5),
-                new Horse("Zephyr", 2.6),
+                new Horse("Zephyr ", 2.6),
                 new Horse("Blaze", 2.7),
                 new Horse("Lobster", 2.8),
                 new Horse("Pegasus", 2.9),
